@@ -1,1 +1,1 @@
-<a href='https://daniel-dof.github.io/projeto-android/'> Projeto Android </a>
+https://daniel-dof.github.io/projeto-android
